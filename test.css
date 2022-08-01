@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(89, 175, 201, 0.178);
+}
+
+h1{
+    text-align: center;
+    color: rgb(29, 23, 14);
+    font-size: 4rem;
+}
+
+p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.women{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.woman{
+    position: relative;
+    margin-left: 7%;
+
+}
+
+.woman2{
+    position: relative;
+    margin-left: 10%;
+}
+
+.men{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.man {
+    position: relative;
+    margin-left: 7%;
+}
+
+.man2{
+    position: relative;
+    margin-left: 10%;
+}
+
+.children{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.child{
+    position: relative;
+    margin-left: 7%;
+}
+
+.child2{
+    position: relative;
+    margin-left: 10%;
+}
